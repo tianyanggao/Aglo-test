@@ -20,6 +20,7 @@ handleClick(){
       {this.state.showImg ? 'Hide' : 'Show Help'}
       </button>
 
+
 I am so sorry that I am not using the origin file, because I think it will take me longer time to focus on learning Angular first. Here I am using React to show my logic to address the issue. And then I will fix it with Angular. 
 
 
